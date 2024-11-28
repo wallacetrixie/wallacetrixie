@@ -1,6 +1,6 @@
-👋 Hi, I'm Wallace Wambul
+👋 Hi, I'm Wallace Wambulwa
+Seeking a challenging role as a backend software engineer to leverage my technical expertise and problem-solving skills.
 I am a Software Engineer with specialization in backend web development and mobile app development, i am a proud graduate of the ALX Software Engineering Program, with a focus on backend technologies. I’m currently pursuing a Bachelor of Information Technology at the Cooperative University of Kenya.
-
 My journey in tech has been fueled by a deep passion for creating impactful, user-centric software solutions. With hands-on experience across diverse projects, I have honed expertise in Backend Development, UI/UX Design, Project Management, and System Architecture. My goal is to build scalable, reliable applications while continuously mastering emerging ttechnologies.
 
 ---

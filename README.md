@@ -1,4 +1,4 @@
-I'm Wallace Wambulwa and i am 
+
 Seeking a challenging role as a backend software engineer to leverage my technical expertise and problem-solving skills.
 ---
 
@@ -8,7 +8,7 @@ With a solid base in both frontend and backend development, here are some of my 
 - **Languages**: C, C++, Java, JavaScript, Python, R
 - **Frontend**: React, Bootstrap, HTML, CSS
 - **Mobile app**:Flutter,java and firebase
-- **Backend**: Node.js, Express.js, MySQL
+- **Backend**: Node.js, Express.js, MySQL,firebase,AWS,azure,devops engineering
 - **Additional Skills**: UI/UX Design, Project Management, System Architecture, System Design
 - **Currently Exploring**: Networking and Reverse Engineering
 

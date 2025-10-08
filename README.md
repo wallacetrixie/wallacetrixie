@@ -1,4 +1,4 @@
-<a href="https://wallacewambulwa-gilt.vercel.app/"/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Wallace+Wambulwa;Backend+Software+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Project+Manager" alt="Typing SVG" />
 </h1>
@@ -26,7 +26,7 @@ I'm a passionate software engineer seeking challenging roles as a **Backend Soft
 - 🌱 I'm currently exploring **Networking and Reverse Engineering**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Backend Development, System Architecture, and UI/UX Design**
-- 📫 How to reach me: **wallacewambulwa@gmail.com**
+- 📫 How to reach me: **https://wallacewambulwa-gilt.vercel.app/**
 - ⚡ Fun fact: **I love solving complex problems and building user-centered solutions**
 
 ---
